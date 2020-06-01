@@ -2,7 +2,7 @@
     --title-color: #322153;
 }
 body{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     background: #f0f0f5;
 }
 #page-home {
@@ -41,5 +41,5 @@ span {
 #page-home main h1 {
     font-size: 54px;
     color: var(--title-color);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
